@@ -32,3 +32,9 @@ div{
     margin-left:150px; 
 
 }
+.box1{
+    height: 875px;
+    width: 365px;
+    background-color: bisque;
+    border: 4px solid purple;
+}
